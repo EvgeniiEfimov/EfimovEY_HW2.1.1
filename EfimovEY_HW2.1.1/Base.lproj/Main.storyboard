@@ -62,7 +62,7 @@
                     <connections>
                         <outlet property="greenView" destination="SBH-aG-DU5" id="uw8-UY-gp7"/>
                         <outlet property="redView" destination="Unj-2U-RSV" id="BFc-aC-uux"/>
-                        <outlet property="startButtenOutlet" destination="4QX-OG-6M4" id="zhU-Xx-G03"/>
+                        <outlet property="startButtenOutlet" destination="4QX-OG-6M4" id="Ydo-aD-ZhI"/>
                         <outlet property="yellowView" destination="X2D-NO-da6" id="QlR-3i-Azl"/>
                     </connections>
                 </viewController>
